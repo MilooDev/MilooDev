@@ -5,7 +5,9 @@
 # Camilo Tapia
 ### Software Developer
 
-Desarrollador de software enfocado en la construcción de soluciones escalables. Experiencia abarcando desde aplicaciones móviles nativas hasta arquitecturas backend basadas en microservicios, priorizando código limpio y buenas prácticas.
+¡Hola! 👋 Soy un desarrollador de software al que le apasiona dar vida a ideas a través de soluciones robustas y escalables. Disfruto involucrarme en distintas áreas del desarrollo, abarcando desde la creación de aplicaciones móviles nativas hasta el diseño de arquitecturas backend basadas en microservicios. 
+
+Para mí, la programación es el punto de encuentro perfecto entre la lógica y la creatividad. Ya sea estructurando una API, optimizando bases de datos o desarrollando mecánicas para videojuegos, mi enfoque siempre está en escribir código limpio, aplicar buenas prácticas y disfrutar del proceso de aprendizaje continuo.
 
 ---
 
@@ -35,7 +37,7 @@ Desarrollador de software enfocado en la construcción de soluciones escalables.
 
 ### 📊 Estadísticas
 
-![CamiProgram's Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
+![CamiProgram's Stats](https://github-readme-stats.vercel.app/api?username=CamiProgram&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
